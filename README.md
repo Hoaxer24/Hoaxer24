@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hoaxer
+- 👋 Hi, I’m Shrikant
 - 👀 I’m interested in git,data structures  
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on anything which suits my interest.
